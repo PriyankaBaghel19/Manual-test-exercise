@@ -1,10 +1,12 @@
 
-**Verify Addresser details.**
+**Verify Addresser details**
 
 **Steps to reproduce -**
-1- Open Addresser.exe file
-2- Open Exported_contacts.txt file
-3- Compare Addresser.exe file with Exported_contacts.txt file 
+1. Open Addresser.exe file
+
+2. Open Exported_contacts.txt file
+
+3. Compare Addresser.exe file with Exported_contacts.txt file 
 
 
 **Current behaviour (bug)-**
@@ -19,8 +21,8 @@ please find below observations -
 
 4. For extra records which are only present in Exported_contacts.txt file, all coloums are not having correct values.
 
-**Expected behaviour-
-**
+**Expected behaviour-**
+
 - There should be equal number of records in Exported_contacts.txt file and Addresser.exe 
 - Exported_contacts.txt records should have same value as Addresser.exe
 

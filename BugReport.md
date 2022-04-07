@@ -1,5 +1,5 @@
 
-**Verify Addresser details.****
+**Verify Addresser details.**
 
 **Steps to reproduce -**
 1- Open Addresser.exe file

@@ -21,7 +21,9 @@ Expected behaviour-
 - There should be equal number of records in Exported_contacts.txt file and Addresser.exe 
 - Exported_contacts.txt records should have same value as Addresser.exe
 
+Screenshot -
 
+![Capture](https://user-images.githubusercontent.com/86852850/162226124-46e8d8ca-0b2c-479e-8454-fad4d5eb4300.PNG)
 
 
 
